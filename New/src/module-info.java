@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author BROVU
+ *
+ */
+module New {
+}
